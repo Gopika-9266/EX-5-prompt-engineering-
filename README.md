@@ -1,4 +1,4 @@
-# PROMPT-ENGINEERING-2. Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
+# Ex.No. 5 Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
 
 ### Name: Gopika R
 ### Reg.N0: 212222240031
